@@ -1,0 +1,1 @@
+# Studybud project (Django tutorial)
