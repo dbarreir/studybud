@@ -9,3 +9,5 @@
     - Created templates for home and room, extended from main and nav
 - 1:39:00 - CRUD
     - Created models for topic, room and message. Display username and topic of room on homepage
+- 2:06:22 - Search
+    - Created form to create/update rooms and button to delete a room with its templates.
