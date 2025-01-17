@@ -7,3 +7,5 @@
     - Created urls file on base app
 - 1:04:25 - Database & Admin Panel
     - Created templates for home and room, extended from main and nav
+- 1:39:00 - CRUD
+    - Created models for topic, room and message. Display username and topic of room on homepage
