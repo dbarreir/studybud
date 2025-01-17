@@ -11,3 +11,5 @@
     - Created models for topic, room and message. Display username and topic of room on homepage
 - 2:06:22 - Search
     - Created form to create/update rooms and button to delete a room with its templates.
+- 2:22:27 - User Login
+    - Added topics filter and searchbar filter by topic, room name and room description to homepage
