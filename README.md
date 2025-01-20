@@ -19,3 +19,5 @@
     - Added flash messages and finished user login
 - 2:41:45 - Restricted Pages
     - Added user logout link
+- 2:49:00 - User registration
+    - Restrict pages for non logged users and add logic conditions to update/delete rooms
