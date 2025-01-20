@@ -21,3 +21,5 @@
     - Added user logout link
 - 2:49:00 - User registration
     - Restrict pages for non logged users and add logic conditions to update/delete rooms
+- 3:01:25 -  Chat Room Messages CRUD
+    - Add registration login and personal user message
