@@ -15,3 +15,5 @@
     - Added topics filter and searchbar filter by topic, room name and room description to homepage
 - 2:32:25 - Flash Messages
     - Created login register.
+- 2:39:03 - User Logout
+    - Added flash messages and finished user login
