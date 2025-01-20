@@ -17,3 +17,5 @@
     - Created login register.
 - 2:39:03 - User Logout
     - Added flash messages and finished user login
+- 2:41:45 - Restricted Pages
+    - Added user logout link
