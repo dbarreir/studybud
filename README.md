@@ -26,4 +26,6 @@
 - 3:27:30 - Activity Feed
     - Add description, participants, messages conversation and add form to add messages in room page. Add relations of participants and room in the database. Add functionality to delete messages if you posted it
 - 3:43:00 - User Profile Page
-    - Add activity feed from users in homepage. Add components to feed, topic and activity.
+    - Add activity feed from users in homepage. Add components to feed, topic and activity
+- 3:53:25 - Static Files
+    - Make users name on feed and activity linkeable, create profile page with topics, feed and activity of user
