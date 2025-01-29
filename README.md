@@ -31,3 +31,5 @@
     - Make users name on feed and activity linkeable, create profile page with topics, feed and activity of user
 - 4:02:15 - Theme Installation
     - Add static files firectory with main stylesheet. Update create room form to add host by user logged
+- 5:11:50 - Edit User Account Page
+    - Added 'theme' to website, modified templates with new theme and modified room form with a datalist to create new topics
