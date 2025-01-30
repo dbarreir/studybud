@@ -35,3 +35,5 @@
     - Added 'theme' to website, modified templates with new theme and modified room form with a datalist to create new topics
 - 5:35:02 - Mobile Responsiveness
     - Added update user page and functionality, updated login/register theme
+- 5:53:00 - Django REST Framework
+    - Added topics and activity page templates with functionality
