@@ -39,3 +39,5 @@
     - Added topics and activity page templates with functionality
 - 6:25:43 - Customizing User model
     - Added api folder on base app, create api rooms with rest framework and added 'coolwebsites' to retrieve information
+- 6:37:35 - Integrating Custom User Model
+    - Create custom user, delete database to migrate custom user. Add profile picture to user and update templates and forms to add file upload
