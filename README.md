@@ -33,3 +33,5 @@
     - Add static files firectory with main stylesheet. Update create room form to add host by user logged
 - 5:11:50 - Edit User Account Page
     - Added 'theme' to website, modified templates with new theme and modified room form with a datalist to create new topics
+- 5:35:02 - Mobile Responsiveness
+    - Added update user page and functionality, updated login/register theme
