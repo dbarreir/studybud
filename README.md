@@ -37,3 +37,5 @@
     - Added update user page and functionality, updated login/register theme
 - 5:53:00 - Django REST Framework
     - Added topics and activity page templates with functionality
+- 6:25:43 - Customizing User model
+    - Added api folder on base app, create api rooms with rest framework and added 'coolwebsites' to retrieve information
